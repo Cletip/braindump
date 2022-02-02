@@ -1,0 +1,12 @@
+baseURL = "https://braindump.badykov.com/"
+languageCode = "en-us"
+title = "C'est mon second cerveau"
+theme = "cortex-dark"
+pygmentsStyle = "emacs" 
+# pygmentsStyle = "dracula"
+
+[params]
+email = "ayratin555@gmail.com"
+footer = "Icon by Freepik. Built with ♥ with Org-mode and Hugo."
+entrypoint = "/about"
+repo = "https://github.com/ayrat555/braindump"
